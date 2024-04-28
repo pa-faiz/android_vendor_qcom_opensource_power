@@ -13,7 +13,7 @@ LOCAL_SHARED_LIBRARIES := \
     libbase \
     libutils \
     libbinder_ndk \
-    android.hardware.power-V3-ndk
+    android.hardware.power-V4-ndk
 
 LOCAL_HEADER_LIBRARIES := \
     libhardware_headers
